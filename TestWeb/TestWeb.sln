@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWeb", "TestWeb.csproj", "{AE36A66E-9D52-4EE1-BAEC-E3B12DBAE9F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDAL", "..\WebDAL\WebDAL.csproj", "{C717634F-1926-4550-A9CC-B60E57664CD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE36A66E-9D52-4EE1-BAEC-E3B12DBAE9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE36A66E-9D52-4EE1-BAEC-E3B12DBAE9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE36A66E-9D52-4EE1-BAEC-E3B12DBAE9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE36A66E-9D52-4EE1-BAEC-E3B12DBAE9F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C717634F-1926-4550-A9CC-B60E57664CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C717634F-1926-4550-A9CC-B60E57664CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C717634F-1926-4550-A9CC-B60E57664CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C717634F-1926-4550-A9CC-B60E57664CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED54106-CE5B-4491-8CF2-AAA83B848FA0}
+	EndGlobalSection
+EndGlobal
